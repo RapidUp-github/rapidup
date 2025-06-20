@@ -1,4 +1,6 @@
 Agency Jekyll theme
+
+This is a demo project!
 ====================
 
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
